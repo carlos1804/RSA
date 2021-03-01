@@ -16,7 +16,7 @@ public class Main {
 		int z = (p - 1) * (q - 1);
 
 		// passo 4: defina d
-		int d = 7; // ((2 * z) + 1 ) / e;
+		int d = 7;
 
 		// passo 5 valor de e
 
